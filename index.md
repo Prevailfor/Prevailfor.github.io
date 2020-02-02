@@ -11,3 +11,5 @@ And you can include links, like this [link to fast.ai](https://www.fast.ai). Pos
 the first blog!!!
 
 [first](_posts/2020-02-02-the_one.md)
+
+[blog from ](https://www.fast.ai/2020/01/16/fast_template/#you-should-blog)
